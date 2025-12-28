@@ -1,0 +1,1 @@
+Be respectful to all contributors. Follow a standard contributor covenant. Treat others with kindness and assume good intent.
